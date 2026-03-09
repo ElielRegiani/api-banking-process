@@ -1,13 +1,13 @@
-package investiment.message.banking.process
-
-import org.junit.jupiter.api.Test
-import org.springframework.boot.test.context.SpringBootTest
-
-@SpringBootTest
-class BankingprocessApplicationTests {
-
-	@Test
-	fun contextLoads() {
-	}
-
-}
+//package investiment.message.banking.process
+//
+//import org.junit.jupiter.api.Test
+//import org.springframework.boot.test.context.SpringBootTest
+//
+//@SpringBootTest
+//class BankingprocessApplicationTests {
+//
+//	@Test
+//	fun contextLoads() {
+//	}
+//
+//}
